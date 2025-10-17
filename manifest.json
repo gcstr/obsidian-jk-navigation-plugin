@@ -1,6 +1,6 @@
 {
     "id": "jk-navigation",
-    "name": "JK Navigation",
+    "name": "Vim-style jk Navigation",
     "version": "1.0.0",
     "minAppVersion": "0.15.0",
     "description": "Adds jk navigation (Ctrl+J/K) to command palette and other suggestion menus",
