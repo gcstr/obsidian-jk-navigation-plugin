@@ -1,0 +1,9 @@
+{
+    "id": "jk-navigation",
+    "name": "JK Navigation",
+    "version": "1.0.0",
+    "minAppVersion": "0.15.0",
+    "description": "Adds jk navigation (Ctrl+J/K) to command palette and other suggestion menus",
+    "author": "gcstr",
+    "isDesktopOnly": false
+}
